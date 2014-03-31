@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+.info-header {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.thumbnail {
+  border:none;
+}
+
+.icon-sized {
+  max-height:180px;
+  max-width:180px;
+}
+
+@media (min-width:768px) {
+  .container {
+    max-width:730px;
+  }
+}
+
